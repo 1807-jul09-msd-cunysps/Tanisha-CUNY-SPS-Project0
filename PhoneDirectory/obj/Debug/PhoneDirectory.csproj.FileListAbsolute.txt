@@ -1,0 +1,7 @@
+E:\Training SPS\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+E:\Training SPS\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+E:\Training SPS\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+E:\Training SPS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csprojAssemblyReference.cache
+E:\Training SPS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.CoreCompileInputs.cache
+E:\Training SPS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+E:\Training SPS\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb

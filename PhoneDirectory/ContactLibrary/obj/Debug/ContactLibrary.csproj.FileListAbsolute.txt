@@ -1,0 +1,11 @@
+E:\Training SPS\PhoneDirectory\ContactLibrary\obj\Debug\ContactLibrary.csprojAssemblyReference.cache
+E:\Training SPS\PhoneDirectory\ContactLibrary\obj\Debug\ContactLibrary.csproj.CoreCompileInputs.cache
+E:\Training SPS\PhoneDirectory\ContactLibrary\bin\Debug\NLog.config
+E:\Training SPS\PhoneDirectory\ContactLibrary\bin\Debug\ContactLibrary.dll
+E:\Training SPS\PhoneDirectory\ContactLibrary\bin\Debug\ContactLibrary.pdb
+E:\Training SPS\PhoneDirectory\ContactLibrary\bin\Debug\NLog.dll
+E:\Training SPS\PhoneDirectory\ContactLibrary\bin\Debug\NLog.xml
+E:\Training SPS\PhoneDirectory\ContactLibrary\obj\Debug\ContactLibrary.csproj.CopyComplete
+E:\Training SPS\PhoneDirectory\ContactLibrary\obj\Debug\ContactLibrary.dll
+E:\Training SPS\PhoneDirectory\ContactLibrary\obj\Debug\ContactLibrary.pdb
+E:\Training SPS\PhoneDirectory\ContactLibrary\bin\Debug\System.Data.SqlClient.dll
